@@ -1,2 +1,2 @@
-# ComTeam Aktienbörse
+# Wissensmanagement FAQ
 Test 
